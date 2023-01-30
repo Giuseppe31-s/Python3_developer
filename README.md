@@ -1,4 +1,4 @@
-# Python3_developer
+# Python3 Developer
 
 ![image](https://raw.githubusercontent.com/Giuseppe31-s/Python3_developer/master/img/pythondeveloper.webp)
 
