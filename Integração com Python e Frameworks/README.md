@@ -22,8 +22,8 @@ Você irá implementar um banco NoSQL com mongodb para fornecer uma visão agreg
 
 Execute as operações:
 
-    Conecte ao mongo atlas e crie um banco de dados
-    Defina uma coleção bank para criar os documetos de clientes
-    Insira documentos com a estrutura mencionada
-    Escreve instruções de recuperação de informações com base nos pares de chave e valor como feito em aula
+ *   Conecte ao mongo atlas e crie um banco de dados
+  *  Defina uma coleção bank para criar os documetos de clientes
+   * Insira documentos com a estrutura mencionada
+    * Escreve instruções de recuperação de informações com base nos pares de chave e valor como feito em aula
 
