@@ -16,7 +16,7 @@ Entregável:
 *  Execução de métodos de recuperação de dados via SQLAlchemy
 
 
-# Parte 2 – Implementando um Banco de Dados NoSQL com Pymongo
+# [Parte 2 – Implementando um Banco de Dados NoSQL com Pymongo](https://github.com/Giuseppe31-s/Python3_developer/blob/0651879d766355f40b4b5f9384feef96f28c1060/Integra%C3%A7%C3%A3o%20com%20Python%20e%20Frameworks/Integrando%20Python%20com%20SQLite%20e%20MongoDB/desafiopymongo.py)
 
 Você irá implementar um banco NoSQL com mongodb para fornecer uma visão agregada do modelo relacional. Sendo assim, as informações de cliente e contas existentes estão contidas dentro de documentos de acordo com cliente.
 
