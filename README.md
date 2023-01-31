@@ -4,4 +4,5 @@
 
 ## Integração com Python e Frameworks
 
-  * [Desáfio Integrando Python com SQLite e MongoDB]("www.google.com")
+  * [Desafio Integrando Python com SQLite e MongoDB]("https://github.com/Giuseppe31-s/Python3_developer/tree/master/Integra%C3%A7%C3%A3o%20com%20Python%20e%20Frameworks")
+  * [Desafio Criando uma API com Flask no Ambiente COLAB](https://github.com/Giuseppe31-s/Python3_developer/tree/master/Integra%C3%A7%C3%A3o%20com%20Python%20e%20Frameworks)
